@@ -1,0 +1,85 @@
+.puzzle {
+    width:300px;
+    height:300px;
+}
+
+div #piece1 {
+    background-image: url("../images/puzzle.jpg");
+    background-position:left top;
+    width:100px;
+    height:100px;
+    visibility: visible;
+    float: left;
+}
+
+div #piece2 {
+    background-image: url("../images/puzzle.jpg");
+    background-position:center top;
+    width:100px;
+    height:100px;
+    visibility: visible;
+    float: left;
+}
+
+div #piece3 {
+    background-image: url("../images/puzzle.jpg");
+    background-position:right top;
+    width:100px;
+    height:100px;
+    visibility: visible;
+    float: left;
+}
+
+div #piece4 {
+    background-image: url("../images/puzzle.jpg");
+    background-position:center left;
+    width:100px;
+    height:100px;
+    visibility: visible;
+    float: left;
+}
+
+div #piece5 {
+    background-image: url("../images/puzzle.jpg");
+    background-position:center center;
+    width:100px;
+    height:100px;
+    visibility: visible;
+    float: left;
+}
+
+div #piece6 {
+    background-image: url("../images/puzzle.jpg");
+    background-position:center right;
+    width:100px;
+    height:100px;
+    visibility: visible;
+    float: left;
+}
+
+div #piece7 {
+    background-image: url("../images/puzzle.jpg");
+    background-position:left bottom;
+    width:100px;
+    height:100px;
+    visibility: visible;
+    float: left;
+}
+
+div #piece8 {
+    background-image: url("../images/puzzle.jpg");
+    background-position:center bottom;
+    width:100px;
+    height:100px;
+    visibility: visible;
+    float: left;
+}
+
+div #piece9 {
+    background-image: url("../images/puzzle.jpg");
+    background-position:right bottom;
+    width:100px;
+    height:100px;
+    visibility: visible;
+    float: left;
+}
