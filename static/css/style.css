@@ -86,8 +86,39 @@ div #piece9 {
     float: left;
 }
 
-div #arrow_right {
+div #arrow_right_top {
+    position:absolute;
+    top: 100px;
+    left: 845px;
+}
+
+div #arrow_right_middle {
+    position:absolute;
+    top: 200px;
+    left: 845px;
+}
+
+div #arrow_right_bottom {
     position:absolute;
     top: 300px;
     left: 845px;
+}
+
+
+div #arrow_left_top {
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+
+div #arrow_left_middle {
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+
+div #arrow_left_bottom {
+    position: absolute;
+    top: 300px;
+    left: 500px;
 }
