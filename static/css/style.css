@@ -6,7 +6,7 @@
 }
 
 div #piece1 {
-    background-image: url("../images/puzzle.jpg");
+    background-image: url("../images/puzzle.jpeg");
     background-position:left top;
     width:100px;
     height:100px;
@@ -15,7 +15,7 @@ div #piece1 {
 }
 
 div #piece2 {
-    background-image: url("../images/puzzle.jpg");
+    background-image: url("../images/puzzle.jpeg");
     background-position:center top;
     width:100px;
     height:100px;
@@ -24,7 +24,7 @@ div #piece2 {
 }
 
 div #piece3 {
-    background-image: url("../images/puzzle.jpg");
+    background-image: url("../images/puzzle.jpeg");
     background-position:right top;
     width:100px;
     height:100px;
@@ -33,7 +33,7 @@ div #piece3 {
 }
 
 div #piece4 {
-    background-image: url("../images/puzzle.jpg");
+    background-image: url("../images/puzzle.jpeg");
     background-position:center left;
     width:100px;
     height:100px;
@@ -42,7 +42,7 @@ div #piece4 {
 }
 
 div #piece5 {
-    background-image: url("../images/puzzle.jpg");
+    background-image: url("../images/puzzle.jpeg");
     background-position:center center;
     width:100px;
     height:100px;
@@ -51,7 +51,7 @@ div #piece5 {
 }
 
 div #piece6 {
-    background-image: url("../images/puzzle.jpg");
+    background-image: url("../images/puzzle.jpeg");
     background-position:center right;
     width:100px;
     height:100px;
@@ -60,7 +60,7 @@ div #piece6 {
 }
 
 div #piece7 {
-    background-image: url("../images/puzzle.jpg");
+    background-image: url("../images/puzzle.jpeg");
     background-position:left bottom;
     width:100px;
     height:100px;
@@ -69,7 +69,7 @@ div #piece7 {
 }
 
 div #piece8 {
-    background-image: url("../images/puzzle.jpg");
+    background-image: url("../images/puzzle.jpeg");
     background-position:center bottom;
     width:100px;
     height:100px;
@@ -78,7 +78,7 @@ div #piece8 {
 }
 
 div #piece9 {
-    background-image: url("../images/puzzle.jpg");
+    background-image: url("../images/puzzle.jpeg");
     background-position:right bottom;
     width:100px;
     height:100px;
