@@ -194,5 +194,13 @@ div #arrow_bottom_right {
 
 
 .heading {
+    word-spacing: 3px;
     text-align: center;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+    text-shadow: 5px 2px 6px black;
+    letter-spacing: 3px;
+    font-size: large;
+    text-decoration: underline;
 }
