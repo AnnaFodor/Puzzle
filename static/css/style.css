@@ -98,18 +98,24 @@ div #arrow_right_top {
     position:absolute;
     top: 175px;
     left: 845px;
+    color: white;
+    background-color: red;
 }
 
 div #arrow_right_middle {
     position:absolute;
     top: 275px;
     left: 845px;
+    color: white;
+    background-color: red;
 }
 
 div #arrow_right_bottom {
     position:absolute;
     top: 375px;
     left: 845px;
+    color: white;
+    background-color: red;
 }
 
 
@@ -117,54 +123,73 @@ div #arrow_left_top {
     position: absolute;
     top: 175px;
     left: 495px;
+    color: white;
+    background-color: red;
 }
 
 div #arrow_left_middle {
     position: absolute;
     top: 275px;
     left: 495px;
+    color: white;
+    background-color: red;
 }
 
 div #arrow_left_bottom {
     position: absolute;
     top: 375px;
     left: 495px;
+    color: white;
+    background-color: red;
 }
 
 div #arrow_top_left {
     position: absolute;
     top: 95px;
     left: 575px;
+    color: white;
+    background-color: red;
 }
 
 div #arrow_top_middle {
     position: absolute;
     top: 95px;
     left: 675px;
+    color: white;
+    background-color: red;
 }
 
 div #arrow_top_right {
     position: absolute;
     top: 95px;
     left: 775px;
+    color: white;
+    background-color: red;
 }
 
 div #arrow_bottom_left {
     position: absolute;
     top: 445px;
     left: 575px;
+    color: white;
+    background-color: red;
 }
 
 div #arrow_bottom_middle {
     position: absolute;
     top: 445px;
     left: 675px;
+    color: white;
+    background-color: red;
 }
 
 div #arrow_bottom_right {
     position: absolute;
     top: 445px;
     left: 775px;
+    color: white;
+    color: white;
+    background-color: red;
 }
 
 
