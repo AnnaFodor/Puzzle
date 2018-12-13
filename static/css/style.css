@@ -1,3 +1,7 @@
+body {
+    background-color: red;
+}
+
 .puzzle {
     width:300px;
     height:300px;
@@ -6,7 +10,7 @@
 }
 
 div #piece1 {
-    background-image: url("../images/puzzle.jpeg");
+    background-image: url("../images/puzzle.jpg");
     background-position:left top;
     width:100px;
     height:100px;
@@ -15,7 +19,7 @@ div #piece1 {
 }
 
 div #piece2 {
-    background-image: url("../images/puzzle.jpeg");
+    background-image: url("../images/puzzle.jpg");
     background-position:center top;
     width:100px;
     height:100px;
@@ -24,7 +28,7 @@ div #piece2 {
 }
 
 div #piece3 {
-    background-image: url("../images/puzzle.jpeg");
+    background-image: url("../images/puzzle.jpg");
     background-position:right top;
     width:100px;
     height:100px;
@@ -33,7 +37,7 @@ div #piece3 {
 }
 
 div #piece4 {
-    background-image: url("../images/puzzle.jpeg");
+    background-image: url("../images/puzzle.jpg");
     background-position:center left;
     width:100px;
     height:100px;
@@ -42,7 +46,7 @@ div #piece4 {
 }
 
 div #piece5 {
-    background-image: url("../images/puzzle.jpeg");
+    background-image: url("../images/puzzle.jpg");
     background-position:center center;
     width:100px;
     height:100px;
@@ -51,7 +55,7 @@ div #piece5 {
 }
 
 div #piece6 {
-    background-image: url("../images/puzzle.jpeg");
+    background-image: url("../images/puzzle.jpg");
     background-position:center right;
     width:100px;
     height:100px;
@@ -60,7 +64,7 @@ div #piece6 {
 }
 
 div #piece7 {
-    background-image: url("../images/puzzle.jpeg");
+    background-image: url("../images/puzzle.jpg");
     background-position:left bottom;
     width:100px;
     height:100px;
@@ -69,7 +73,7 @@ div #piece7 {
 }
 
 div #piece8 {
-    background-image: url("../images/puzzle.jpeg");
+    background-image: url("../images/puzzle.jpg");
     background-position:center bottom;
     width:100px;
     height:100px;
@@ -78,7 +82,7 @@ div #piece8 {
 }
 
 div #piece9 {
-    background-image: url("../images/puzzle.jpeg");
+    background-image: url("../images/puzzle.jpg");
     background-position:right bottom;
     width:100px;
     height:100px;
@@ -86,87 +90,84 @@ div #piece9 {
     float: left;
 }
 
+.arrow {
+    margin: 20px;
+}
+
 div #arrow_right_top {
     position:absolute;
-    top: 100px;
+    top: 175px;
     left: 845px;
-    border-radius: 50%;
 }
 
 div #arrow_right_middle {
     position:absolute;
-    top: 200px;
+    top: 275px;
     left: 845px;
-    border-radius: 50%;
 }
 
 div #arrow_right_bottom {
     position:absolute;
-    top: 300px;
+    top: 375px;
     left: 845px;
-    border-radius: 50%;
 }
 
 
 div #arrow_left_top {
     position: absolute;
-    top: 100px;
+    top: 175px;
     left: 495px;
-    border-radius: 50%;
 }
 
 div #arrow_left_middle {
     position: absolute;
-    top: 200px;
+    top: 275px;
     left: 495px;
-    border-radius: 50%;
 }
 
 div #arrow_left_bottom {
     position: absolute;
-    top: 300px;
+    top: 375px;
     left: 495px;
-    border-radius: 50%;
 }
 
 div #arrow_top_left {
     position: absolute;
-    top: 25px;
+    top: 95px;
     left: 575px;
-    border-radius: 50%;
 }
 
 div #arrow_top_middle {
     position: absolute;
-    top: 25px;
+    top: 95px;
     left: 675px;
-    border-radius: 50%;
 }
 
 div #arrow_top_right {
     position: absolute;
-    top: 25px;
+    top: 95px;
     left: 775px;
-    border-radius: 50%;
 }
 
 div #arrow_bottom_left {
     position: absolute;
-    top: 375px;
+    top: 445px;
     left: 575px;
-    border-radius: 50%;
 }
 
 div #arrow_bottom_middle {
     position: absolute;
-    top: 375px;
+    top: 445px;
     left: 675px;
-    border-radius: 50px;
 }
 
 div #arrow_bottom_right {
     position: absolute;
-    top: 375px;
+    top: 445px;
     left: 775px;
-    border-radius: 50%;
+}
+
+
+.heading {
+    text-align: center;
 }
