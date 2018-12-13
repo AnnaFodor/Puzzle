@@ -1,12 +1,17 @@
 body {
-    background-color: red;
+    background-image: url("../images/background.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .puzzle {
     width:300px;
     height:300px;
     margin: auto;
-    border: 50px solid green;
+    border: 30px solid forestgreen;
+    padding: 10px;
 }
 
 div #piece1 {
